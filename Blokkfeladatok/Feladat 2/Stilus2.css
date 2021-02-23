@@ -1,0 +1,29 @@
+#kulso {
+    background-color: red;
+    text-align: center;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    padding: 8cm;
+    float:left;
+    position:top;
+    overflow: visible;
+}
+#kozepso {
+    background-color: green;
+    text-align: center;
+    margin-left: 13cm;
+    margin-right: 13cm;
+    padding: 6cm;
+    position:absolute;
+    float:center;
+    overflow: visible;
+}
+#belso {
+    background-color: blue;
+    text-align: center;
+    margin-left: 15cm;
+    margin-right: 20cm;
+    padding: 5cm;
+    position:absolute;
+    float:bottom;
+}
